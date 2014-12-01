@@ -85,4 +85,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: git@github.com:CreditCloud/creditcloud.github.io.git
+  branch: master
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
