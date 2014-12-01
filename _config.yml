@@ -14,7 +14,7 @@ language: zh_CN
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.creditcloud.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: archives/:title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
