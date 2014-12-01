@@ -88,4 +88,3 @@ deploy:
   type: github
   repo: https://github.com/CreditCloud/creditcloud.github.io.git
   branch: master
-  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
