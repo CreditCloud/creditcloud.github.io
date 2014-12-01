@@ -8,7 +8,7 @@ subtitle:
 description: CreditCloud 技术团队，P2P 技术分享，node.js 前端技术。
 author: CC Engineering Team
 email: opensource@undozen.com
-language:
+language: zh_CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
