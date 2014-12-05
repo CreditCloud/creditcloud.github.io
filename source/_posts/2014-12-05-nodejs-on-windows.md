@@ -8,7 +8,7 @@ tags:
 - bitbucket
 ---
 
-本文将以 [demo-ds](https://bitbucket.org/creditcloud-demo/demo-ds) 为例介绍如何在 Windows 7 下搭建 node 开发环境。
+本文将以 [demo-ds](https://bitbucket.org/creditcloud-demo/demo-ds) 为例介绍如何在 Windows 7 下搭建 node 开发环境。作者[@undoZen](http://www.undozen.com)
 
 首先访问 [node.js 官网](http://nodejs.org/) 点击 INSTALL 下载安装包，可以直接下载运行。
 
